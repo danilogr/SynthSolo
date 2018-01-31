@@ -1,3 +1,6 @@
+// Blending https://processing.org/reference/libraries/sound/FFT.html 
+// with https://processing.org/tutorials/sound/
+
 import processing.sound.*;
 
 SinOsc[] sineWaves; // array of sines
